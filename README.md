@@ -1,3 +1,5 @@
+## <div align="center"> Bug Hunter and Senior Computer Science Student at FCIS - ASU </div>
+
 ![](https://komarev.com/ghpvc/?username=AliTarekMohamed)
 
 <!--
