@@ -1,16 +1,46 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=BishoySedra)
 
 <!--
-**AliTarekMohamed/AliTarekMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **`Nest.js`**
+- ❓ Ask me about anything related to **`Back-End Development`**
 -->
+
+## Connect with me
+
+<div align="center">
+  
+<a href="mailto:alitarekofficial@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23F45.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/AliTarekMohamed" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/0xalitarek" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+</div>
+
+## My Stats
+
+<div>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AliTarekMohamed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliTarekMohamed&theme=radical&hide_border=true" />
+</div>
+
+<br>
+
+<div>
+<img width="49.5%" align="top" src="https://github-profile-trophy.vercel.app/?username=AliTarekMohamed&theme=radical&row=2&column=3&no-frame=true&no-bg=false&margin-w=5&margin-h=5" />
+<img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliTarekMohamed&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
+ </div>
+
+## Random Dev Quote
+
+<div align="center">
+  
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+  
+</div>
